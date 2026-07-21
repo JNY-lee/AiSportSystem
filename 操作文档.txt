@@ -1,0 +1,43 @@
+一、创建数据库
+source backend\db\ai_db.sql
+
+
+二、创建虚拟环境（避免运行项目是环境污染)
+conda create -n ai_sport python=3.9
+conda activate ai_sport   #激活环境
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+安装Node.js及npm包管理器Node.js 中文网 (nodejs.cn)
+安装vue-cli：
+npm install -g @vue/cli
+创建Vue项目：vue ui
+
+终端启动vue项目：npm run dev或npm run serve【font路径下启动】
+
+
+模型训练
+python download_dataset.py
+python feature_extract.py  #关闭终端，重新打开再取消注释运行test
+python train_model.py
+python main.py
+python app.py    #启动后端，对接vue前端
+
+
+
+
+整体运行：
+打开anaconda prompt：
+conda activate ai_sport
+cd ./AI_Sports_System/backend
+python app.py
+
+另一个终端：
+cd ./AI_Sports_System/front
+npm run serve              
+
+
+
+文件详解：
+存放训练数据，包含测试集、训练集和验证集（三个标签(有pull Up、push-up、squat三个健身类型）：".\AI_Sports_System\AI_Sports_System\backend\dataset"
+
+数据下载链接https://www.cvmart.net/dataSets/detail/1505或https://svip-lab.github.io/dataset/RepCount_dataset.html或自己上网找

@@ -1,0 +1,76 @@
+file_path,sport_type,quality
+./dataset/Splitted_full_data\train\pull Up\pull up_1.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_11.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_12.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_16.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_2.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_20.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_23.mp4,pull Up,bad
+./dataset/Splitted_full_data\train\pull Up\pull up_24.mp4,pull Up,bad
+./dataset/Splitted_full_data\train\pull Up\pull up_26.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_3.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_5.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_6.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_7.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull up_9.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull_up_10.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull_up_11.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull_up_12.mp4,pull Up,bad
+./dataset/Splitted_full_data\train\pull Up\pull_up_2.mp4,pull Up,bad
+./dataset/Splitted_full_data\train\pull Up\pull_up_6.mp4,pull Up,bad
+./dataset/Splitted_full_data\train\pull Up\pull_up_7.mp4,pull Up,good
+./dataset/Splitted_full_data\train\pull Up\pull_up_9.mp4,pull Up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_1.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_11.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_13.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_15.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_16.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_18.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_20.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_21.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_22.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_23.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_24.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_25.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_26.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_27.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_28.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_3.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_30.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_31.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_33.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_35.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_37.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_38.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_39.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_4.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_41.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_44.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_46.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_5.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_50.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_52.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_54.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_55.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_6.mp4,push-up,good
+./dataset/Splitted_full_data\train\push-up\push-up_7.mp4,push-up,bad
+./dataset/Splitted_full_data\train\push-up\push-up_9.mp4,push-up,bad
+./dataset/Splitted_full_data\train\squat\squat_10.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_11.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_13.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_14.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_15.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_19.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_20.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_21.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_22.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_23.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_24.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_25.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_26.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_28.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_38.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_39.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_40.mp4,squat,good
+./dataset/Splitted_full_data\train\squat\squat_42.mp4,squat,bad
+./dataset/Splitted_full_data\train\squat\squat_9.mp4,squat,good

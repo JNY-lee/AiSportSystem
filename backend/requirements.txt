@@ -1,0 +1,14 @@
+# MySQL连接
+pymysql==1.1.0
+# 文档指定版本Flask3.0.2
+flask==3.0.2
+# 数据导出处理
+pandas==2.1.4
+# 图像处理
+opencv-python==4.8.1.78
+# 数值计算
+numpy==1.26.2
+# Mediapipe人体关键点算法
+mediapipe==0.10.8
+tkinter
+flask-cors
